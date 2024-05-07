@@ -1,17 +1,18 @@
 ---
 name: Feature request
 about: Sugira uma ideia para este repositório
-title: "[SUGESTÃO]"
+title: "melhora do desafio, introduzindo links diretos das aulas(em porl dos iniciantes) faq diretamente no desafio"
 labels: enhancement
 assignees: ''
 
 ---
 
 **Sua sugestão está relacionada a um problema? Por favor descreva.**
-Uma descrição clara e concisa de qual é o problema.
+não é tão direto ao ponto, e o entedimento pra quem é iniciante fica dificil.
 
 **Descreva a solução que você gostaria**
-Uma descrição clara e concisa do que você quer que aconteça.
+links que facilita
+descrição mais prescisa.
 
 **Descreva as alternativas que você considerou**
 Uma descrição clara e concisa de quaisquer soluções ou recursos alternativos que você considerou.
